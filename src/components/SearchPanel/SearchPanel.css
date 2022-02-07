@@ -1,0 +1,8 @@
+.search-panel {
+   width: 100%;
+   display: flex;
+}
+
+.search-panel input{
+   width: 100%;
+}

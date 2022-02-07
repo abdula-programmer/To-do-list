@@ -1,0 +1,9 @@
+.app-header{
+   display: flex;
+   justify-content: space-between;
+}
+
+h3 {
+   font-style: italic;
+   color: #3c3a3a ;
+}
